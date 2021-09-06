@@ -1,5 +1,5 @@
 # Ultimate-resource-pack
-A repo containing list of resources for learning literally anything
+A repo containing list of free resources for learning literally anything
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Table of contents
