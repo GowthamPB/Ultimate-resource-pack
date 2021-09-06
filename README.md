@@ -17,14 +17,14 @@ A repo containing list of resources for learning literally anything
 
 # Data-structures-and-algorithms
 
-# Web development
+# Web-development
 [Repo by Marko Denic](https://github.com/markodenic/web-development-resources)
 
-# Android development
+# Android-development
 
 # AI/ML
 
-# Cloud computing
+# Cloud-computing
 
 # Blockchain
 
