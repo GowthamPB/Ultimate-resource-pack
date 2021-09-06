@@ -3,8 +3,8 @@ A repo containing list of resources for learning literally anything
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Table of contents
-|[CS Fundamentals](#CS-Fundamentals)|
-|[Data structures and algorithms](#Data-structures-and-algorithms)|
+- [CS Fundamentals](#CS-Fundamentals)
+- [Data structures and algorithms](#Data-structures-and-algorithms)
 
 
 
