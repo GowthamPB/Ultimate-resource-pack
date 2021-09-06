@@ -3,7 +3,7 @@ A repo containing list of resources for learning literally anything
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Table of contents
-[CS Fundamentals](#CS Fundamentals)
+[CS Fundamentals](#CS-Fundamentals)
 
 
 
@@ -13,7 +13,7 @@ A repo containing list of resources for learning literally anything
 
 
 
-## CS Fundamentals
+## CS-Fundamentals
 ## Data structures and algorithms
 ## Web development
 ## Android development
