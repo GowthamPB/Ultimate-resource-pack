@@ -10,6 +10,7 @@ A repo containing list of resources for learning literally anything
 - [Artificial Intelligence and Machine Learning](#AI-and-ML)
 - [Cloud computing](#Cloud-computing)
 - [Blockchain](#Blockchain)
+- [Competitive Programming](#Competitive-Programming)
 - [UI/UX](#UI-and-UX)
 
 
@@ -28,5 +29,7 @@ A repo containing list of resources for learning literally anything
 # Cloud-computing
 
 # Blockchain
+
+# Competitive-programming
 
 # UI-and-UX
