@@ -7,7 +7,7 @@ A repo containing list of resources for learning literally anything
 - [Data structures and algorithms](#Data-structures-and-algorithms)
 - [Web development](#Web-development)
 - [Android development](#Android-development)
-- [Artificial Intelligence and Machine Learning](#AI-ML)
+- [Artificial Intelligence and Machine Learning](#AI-and-ML)
 - [Cloud computing](#Cloud-computing)
 - [Blockchain](#Blockchain)
 - [UI/UX](#UI-UX)
@@ -28,4 +28,4 @@ A repo containing list of resources for learning literally anything
 
 # Blockchain
 
-# UI and UX
+# UI-and-UX
